@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Sell Cars</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="car_table">Tabela de Carro(s)</string>
+    <string name="register">Cadastre seu veículo</string>
+    <string name="brand">Marca:</string>
+    <string name="model">Modelo:</string>
+    <string name="color">Cor:</string>
+    <string name="v_brand">Informe a marca do veículo:</string>
+    <string name="v_model">Informe a modelo do veículo:</string>
+    <string name="value">Informe o valor</string>
+    <string name="phone">Informe seu telefone</string>
+    <string name="entered">Confirmo que os dados inseridos estão corretos.</string>
+    <string name="save">SALVAR</string>
+    <string name="atualized">Lista Atualizada</string>
+    <string name="complete">Preencha todos os campos!</string>
+    <string name="text1">Aqui você vende mesmo!</string>
+    <string name="btnRegister">Cadastrar-se</string>
+    <string name="enter">Entrar</string>
+    <string name="add">Novo anúncio</string>
+    <string name="logout">Sair</string>
+    <string name="anuncios">Ver anúncios</string>
+    <string name="danger">Só o anunciante poderá editar ou excluir anúncio!</string>
+
+    <string-array name="colors">
+        <item name="option_color">Escolha uma Cor</item>
+        <item name="white">Branco</item>
+        <item name="black">Preto</item>
+        <item name="gray">Cinza</item>
+        <item name="green">Verde</item>
+        <item name="red">Vermelho</item>
+        <item name="blue">Azul</item>
+    </string-array>
+</resources>

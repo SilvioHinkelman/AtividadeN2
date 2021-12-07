@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.silviohinkelman.silviohinkelman.MainActivity">
+
+    <item
+        android:id="@+id/menuAddProduto"
+        android:orderInCategory="100"
+        android:title="@string/add"
+        app:showAsAction="never" />
+
+<!--    <item-->
+<!--        android:id="@+id/menuLoja"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:title="@string/anuncios"-->
+<!--        app:showAsAction="never" />-->
+
+    <item
+        android:id="@+id/menuLogout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+
+</menu>
